@@ -1,4 +1,4 @@
 # guess-number-game
 
 # Demo
-guess-num-ber.netlify.app
+https://app.netlify.com/sites/guess-num-ber/settings/general
